@@ -1,0 +1,2 @@
+# No third-party runtime dependencies yet; examples use Python's standard library.
+# Add only required packages, with tested versions, when the project needs them.
